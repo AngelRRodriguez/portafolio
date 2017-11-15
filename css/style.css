@@ -1,0 +1,104 @@
+.navbar-brand {
+    font-weight: 500;
+    border: 3px solid #000000;
+    margin: 5px;
+    padding: 13px 15px 14px;
+    font-size: 2em;
+    height: auto;
+    color: #000000;
+}
+
+.intro {
+    padding: 8px 40px 0.5em;
+}
+
+.navbar-header {
+    margin: -3px;
+    padding: 0;
+    background: #fff;
+}
+
+.navbar {
+    padding: 2em 50px 0em;
+}
+
+.navbar-nav>li>a {
+    display: block;
+    margin: 9px 0;
+    color: #000;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 29px;
+}
+
+.nav-footer a {
+    color: #000;
+}
+
+.credits {
+    color: #060606;
+    font-weight: 100;
+    margin: 8px 0;
+}
+
+a { 
+    color: #9200c0;
+    text-decoration: none;
+} 
+
+#start-modal {
+    overflow: hidden;
+}
+
+#start-modal .modal-dialog {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#start-modal .modal-body {
+    padding: 0;
+}
+
+.wrapper {
+    background: #d5d5d5;
+}
+
+img {
+    margin-left: 35px;
+    padding: 2px;
+    margin-right: -38px;
+}
+
+.nav {
+    margin-bottom: 0;
+    padding-left: 56px;
+    list-style: none;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+p {
+    margin: 0px 38px 2.5em;
+    padding: 0px;
+    margin-right: 236px;
+}
+
+.middle {
+    font-size: 14;
+    text-align: justify;
+}
+
+.final {
+    margin-right: 15px padding: 50px;
+    margin-left: 204px;
+}
